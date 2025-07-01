@@ -1,6 +1,6 @@
 # Task 6: K-Nearest Neighbors (KNN) Classification 🌸
 
-This repository contains the implementation of **K-Nearest Neighbors (KNN)** for classification using the **Iris dataset** as part of the AI & ML Internship.
+This Repository contains the implementation of **K-Nearest Neighbors (KNN)** for classification using the **Iris dataset** as part of the AI & ML Internship.
 
 ## 🔧 Tools & Libraries Used
 
@@ -70,10 +70,7 @@ This repository contains the implementation of **K-Nearest Neighbors (KNN)** for
 7. How does KNN handle multi-class problems?
 8. What’s the role of distance metrics in KNN?
 
-## 🔗 Submission
-
-- [🔗 Internship Task Submission Form](https://forms.gle/8Gm83s53KbyXs3Ne9)
 
 ---
 
-> ✨ Feel free to ⭐ the repo if you find it useful!
+> ✨ Feel free to  use the repo⭐ if you find it useful!
